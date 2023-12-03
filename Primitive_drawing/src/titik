@@ -1,0 +1,11 @@
+#include "titik."
+
+titik::titik()
+{
+    //ctor
+}
+
+titik::~titik()
+{
+    //dtor
+}

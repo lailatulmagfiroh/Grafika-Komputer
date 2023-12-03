@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1685161129 source:d:\unesa\semester 4\grafika komputer\musim\main.c
+	<windows.h>
+	<glut.h>
+	<math.h>
+
+1685387820 source:d:\unesa\semester 4\grafika komputer\musim\musim.c
+	<windows.h>
+	<glut.h>
+

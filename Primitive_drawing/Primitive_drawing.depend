@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685173288 source:d:\unesa\semester 4\grafika komputer\primitive_drawing\main.c
+	<glut.h>
+	<stdlib.h>
+
+1684656906 source:d:\unesa\semester 4\grafika komputer\tugas 6 opengl\program titik.c
+	<glut.h>
+	<stdlib.h>
+

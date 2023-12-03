@@ -1,0 +1,16 @@
+#ifndef TES1_
+#define TES1_
+
+
+class tes1
+{
+    public:
+        tes1();
+        virtual ~tes1();
+
+    protected:
+
+    private:
+};
+
+#endif // TES1_

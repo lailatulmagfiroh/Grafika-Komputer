@@ -1,0 +1,16 @@
+#ifndef TITIK_
+#define TITIK_
+
+
+class titik
+{
+public:
+    titik();
+    virtual ~titik();
+
+protected:
+
+private:
+};
+
+#endif // TITIK_
